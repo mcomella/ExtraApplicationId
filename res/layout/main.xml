@@ -23,5 +23,19 @@
     android:text="Link 2 (EXTRA_APPLICATION_ID)"
     />
 
+<Button
+    android:id="@+id/link3"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Link 3 (NO EXTRAS)"
+    />
+
+<Button
+    android:id="@+id/link4"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="Link 4 (NO EXTRAS)"
+    />
+
 </LinearLayout>
 </ScrollView>
