@@ -8,14 +8,14 @@
     android:id="@+id/link1"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:text="Link 1"
+    android:text="Link 1 (EXTRA_APPLICATION_ID)"
     />
 
 <Button
     android:id="@+id/link2"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
-    android:text="Link 2"
+    android:text="Link 2 (EXTRA_APPLICATION_ID)"
     />
 </LinearLayout>
 
